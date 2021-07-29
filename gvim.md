@@ -3,7 +3,7 @@
 <br>
 
 
-### Download 
+### download 
 
 ```bash
 sudo apt-get install gvim-gnome
